@@ -2,7 +2,7 @@
 This is the ML model that uses XGBoost regression algorithm to predict the house prices listed for sale.
 
 --- Databases and their usage
-  -- Stage 1
+  -- Stage 1<br>
     Dataset here has been taken from Kaggle. We have two main datasets that are the basis for our analysis.
     1) train.csv
     2) test.csv
